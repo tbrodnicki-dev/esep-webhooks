@@ -1,0 +1,17 @@
+C:\Users\tyler\Documents\Code\CIS4390-ESEP\esep-webhooks\EsepWebhook\bin\Release\net10.0\linux-x64\EsepWebhook.deps.json
+C:\Users\tyler\Documents\Code\CIS4390-ESEP\esep-webhooks\EsepWebhook\bin\Release\net10.0\linux-x64\EsepWebhook.runtimeconfig.json
+C:\Users\tyler\Documents\Code\CIS4390-ESEP\esep-webhooks\EsepWebhook\bin\Release\net10.0\linux-x64\EsepWebhook.dll
+C:\Users\tyler\Documents\Code\CIS4390-ESEP\esep-webhooks\EsepWebhook\bin\Release\net10.0\linux-x64\EsepWebhook.pdb
+C:\Users\tyler\Documents\Code\CIS4390-ESEP\esep-webhooks\EsepWebhook\bin\Release\net10.0\linux-x64\Amazon.Lambda.Core.dll
+C:\Users\tyler\Documents\Code\CIS4390-ESEP\esep-webhooks\EsepWebhook\bin\Release\net10.0\linux-x64\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\tyler\Documents\Code\CIS4390-ESEP\esep-webhooks\EsepWebhook\obj\Release\net10.0\linux-x64\EsepWebhook.csproj.AssemblyReference.cache
+C:\Users\tyler\Documents\Code\CIS4390-ESEP\esep-webhooks\EsepWebhook\obj\Release\net10.0\linux-x64\EsepWebhook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tyler\Documents\Code\CIS4390-ESEP\esep-webhooks\EsepWebhook\obj\Release\net10.0\linux-x64\EsepWebhook.AssemblyInfoInputs.cache
+C:\Users\tyler\Documents\Code\CIS4390-ESEP\esep-webhooks\EsepWebhook\obj\Release\net10.0\linux-x64\EsepWebhook.AssemblyInfo.cs
+C:\Users\tyler\Documents\Code\CIS4390-ESEP\esep-webhooks\EsepWebhook\obj\Release\net10.0\linux-x64\EsepWebhook.csproj.CoreCompileInputs.cache
+C:\Users\tyler\Documents\Code\CIS4390-ESEP\esep-webhooks\EsepWebhook\obj\Release\net10.0\linux-x64\EsepWebh.2DAAD0C6.Up2Date
+C:\Users\tyler\Documents\Code\CIS4390-ESEP\esep-webhooks\EsepWebhook\obj\Release\net10.0\linux-x64\EsepWebhook.dll
+C:\Users\tyler\Documents\Code\CIS4390-ESEP\esep-webhooks\EsepWebhook\obj\Release\net10.0\linux-x64\refint\EsepWebhook.dll
+C:\Users\tyler\Documents\Code\CIS4390-ESEP\esep-webhooks\EsepWebhook\obj\Release\net10.0\linux-x64\EsepWebhook.pdb
+C:\Users\tyler\Documents\Code\CIS4390-ESEP\esep-webhooks\EsepWebhook\obj\Release\net10.0\linux-x64\EsepWebhook.genruntimeconfig.cache
+C:\Users\tyler\Documents\Code\CIS4390-ESEP\esep-webhooks\EsepWebhook\obj\Release\net10.0\linux-x64\ref\EsepWebhook.dll
